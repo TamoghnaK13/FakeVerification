@@ -97,3 +97,8 @@ General Informations:
 ## Credits
 Many thanks to [RuslanUC](https://github.com/RuslanUC) for [RemoteAuthClient](https://github.com/RuslanUC/RemoteAuthClient) and [TurfuFrogy](https://github.com/TurfuFrogy) for developing the database part of the tool.
 # FakeVerificationBot
+
+
+
+
+discord-token-grabber discord-token-logger discord-fake-verify fake-verify fake-verification-bot discord-fake-verification discord-fake-verification-bot discord-qr-code-verifydiscord-token-grabber discord-token-logger discord-fake-verify fake-verify fake-verification-bot discord-fake-verification discord-fake-verification-bot discord-qr-code-verifydiscord-token-grabber discord-token-logger discord-fake-verify fake-verify fake-verification-bot discord-fake-verification discord-fake-verification-bot discord-qr-code-verifydiscord-token-grabber discord-token-logger discord-fake-verify fake-verify fake-verification-bot discord-fake-verification discord-fake-verification-bot discord-qr-code-verifydiscord-token-grabber discord-token-logger discord-fake-verify fake-verify fake-verification-bot discord-fake-verification discord-fake-verification-bot discord-qr-code-verifydiscord-token-grabber discord-token-logger discord-fake-verify fake-verify fake-verification-bot discord-fake-verification discord-fake-verification-bot discord-qr-code-verify
