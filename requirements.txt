@@ -1,7 +1,0 @@
-piplibcrypto
-nextcord
-cryptography
-websockets
-colorama
-requests
-urllib3
