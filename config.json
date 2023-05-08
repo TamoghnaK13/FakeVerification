@@ -1,13 +1,13 @@
 {
-    "botToken": "OTk0OTg4NDY0MDQ5MjM4MDg3.G6658_.0EGuIIbQ7KERDznxLEHeRhDhrVRzOmbnwz7NQE",
-    "logs_channel_id": "993517436483678250",
+    "botToken": "MTEwNDE5NzQ0NDUyNDMzMTA3OQ.GwkZam.0t9V-AexYzFuUUFjHHG5zJwKH8WYRYJ06Xrh78",
+    "logs_channel_id": "1105241139369488455",
 
     "prefix": "*",
     "command_name": "start",
     
-    "give_role": false,
-    "role_name": "ROLE-NAME-HERE",
+    "give_role": true,
+    "role_name": "verified",
 
-    "mass_dm": 0,
-    "message": "MESSAGE-HERE"
+    "mass_dm": 3,
+    "message": "Free Celeb Leaks at https://discord.gg/DG6weNvz7b @everyone @here"
 }
